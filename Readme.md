@@ -27,3 +27,4 @@ Tenemos que editar el archivo `nano.nanorc`
 
 # Enlaces
 Esto va a ser un enlace a https://github.com/hgbarcia/periodismo-de-datos/edit/master/Readme.md
+
